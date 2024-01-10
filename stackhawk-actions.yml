@@ -1,7 +1,7 @@
 app:
   # Update your applicationId
-  applicationId: ${APP_ID:8454c127-64aa-490e-a151-54ae287ee8f1}
-  env: ${APP_ENV:GitHub Actions}
+  applicationId: ${APP_ID:5adde1d3-f3e4-4e13-95aa-f807ae5a67e7}
+  env: ${APP_ENV:Development}
   host: ${APP_HOST:https://localhost:9000}
   excludePaths:
     - "/logout"
